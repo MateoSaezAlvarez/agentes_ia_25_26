@@ -14,7 +14,7 @@
 - [x] Crear la carpeta scripts
 - [x] Crear fichero package.json
 - [x] Crear el fichero .gitignore
-- [] He realizado conexión con Github de este proyecto
+- [x] He realizado conexión con Github de este proyecto
 
 ##Scripts de validación
 
