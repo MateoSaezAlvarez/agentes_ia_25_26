@@ -1,0 +1,146 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Clean Code",
+      "authorId": 1,
+      "year": 2008,
+      "language": "English",
+      "publisher": "Prentice Hall"
+    },
+    {
+      "id": 2,
+      "title": "The Pragmatic Programmer",
+      "authorId": 2,
+      "year": 1999,
+      "language": "English",
+      "publisher": "Addison-Wesley"
+    },
+    {
+      "id": 3,
+      "title": "Code Complete",
+      "authorId": 3,
+      "year": 2004,
+      "language": "English",
+      "publisher": "Microsoft Press"
+    },
+    {
+      "id": 4,
+      "title": "You Don’t Know JS Yet",
+      "authorId": 4,
+      "year": 2020,
+      "language": "English",
+      "publisher": "Independently Published"
+    },
+    {
+      "id": 5,
+      "title": "Design Patterns",
+      "authorId": 5,
+      "year": 1994,
+      "language": "English",
+      "publisher": "Addison-Wesley"
+    },
+    {
+      "id": 6,
+      "title": "Refactoring",
+      "authorId": 6,
+      "year": 2018,
+      "language": "English",
+      "publisher": "Addison-Wesley"
+    },
+    {
+      "id": 7,
+      "title": "Python Crash Course",
+      "authorId": 7,
+      "year": 2015,
+      "language": "English",
+      "publisher": "No Starch Press"
+    },
+    {
+      "id": 8,
+      "title": "Fluent Python",
+      "authorId": 8,
+      "year": 2015,
+      "language": "English",
+      "publisher": "O’Reilly Media"
+    },
+    {
+      "id": 9,
+      "title": "Head First Java",
+      "authorId": 9,
+      "year": 2005,
+      "language": "English",
+      "publisher": "O’Reilly Media"
+    },
+    {
+      "id": 10,
+      "title": "Programming Rust",
+      "authorId": 10,
+      "year": 2021,
+      "language": "English",
+      "publisher": "O’Reilly Media"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Robert C. Martin",
+      "nationality": "USA",
+      "birthYear": 1952
+    },
+    {
+      "id": 2,
+      "name": "Andrew Hunt",
+      "nationality": "USA",
+      "birthYear": 1964
+    },
+    {
+      "id": 3,
+      "name": "Steve McConnell",
+      "nationality": "USA",
+      "birthYear": 1962
+    },
+    {
+      "id": 4,
+      "name": "Kyle Simpson",
+      "nationality": "USA",
+      "birthYear": 1975
+    },
+    {
+      "id": 5,
+      "name": "Erich Gamma",
+      "nationality": "Switzerland",
+      "birthYear": 1961
+    },
+    {
+      "id": 6,
+      "name": "Martin Fowler",
+      "nationality": "UK",
+      "birthYear": 1963
+    },
+    {
+      "id": 7,
+      "name": "Eric Matthes",
+      "nationality": "USA",
+      "birthYear": 1972
+    },
+    {
+      "id": 8,
+      "name": "Luciano Ramalho",
+      "nationality": "Brazil",
+      "birthYear": 1967
+    },
+    {
+      "id": 9,
+      "name": "Kathy Sierra",
+      "nationality": "USA",
+      "birthYear": 1957
+    },
+    {
+      "id": 10,
+      "name": "Jim Blandy",
+      "nationality": "USA",
+      "birthYear": 1960
+    }
+  ]
+}
