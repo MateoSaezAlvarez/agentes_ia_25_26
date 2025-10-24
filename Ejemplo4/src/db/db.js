@@ -17,6 +17,12 @@ const dataAPI = [
         type: "Weissbier",
         alcohol: "5.5%",
     },
+    {
+        id: 4,
+        beerName: "Augustiner",
+        type: "Lager",
+        alcohol: "5.2%",
+    },
 ];
 
 export default dataAPI;

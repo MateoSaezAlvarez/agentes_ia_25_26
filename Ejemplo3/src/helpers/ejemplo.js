@@ -18,6 +18,7 @@ export const getAllUsers = () => {
             return;
         }
         const data = JSON.parse(stdout);
+        console.log(cmd);
         console.log(data);
         console.table(data);
     });
